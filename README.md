@@ -11,3 +11,7 @@ The readme should include information such as:
 By keeping this README up-to-date,
 your team will find it easier to prepare for the final presentation
 at the end of the term.
+
+# Use cases
+## User case 1: As a user, I want this app to read all courses information on Quercus, showed on a calendar with all assignments' deadline shown.
+## User case 2: As a 
