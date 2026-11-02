@@ -16,20 +16,21 @@ at the end of the term.
 
 ## User case 1
 
-As a user, I want this app to read all courses information on Quercus, showed on a calendar with all assignments' deadline shown.
+As a user, I want to have important deadlines displayed on a calendar.
 
 ## User case 2
 
-As a user,
+As a user, I want a login feature such that my data gets saved under that username/password.
 
 ## User case 3
 
-As a user,
+As a user, I want a weighted grade calculation feature based on the syllabus for each class.
 
 ## User case 4
 
-As a user,
+As a user, I want an announcement tab that parses them directly from Quercus. 
 
 ## User case 5
 
-As a user,
+As a user, I want this app to read all course information from Quercus and dynamically fill out the app’s features.
+
