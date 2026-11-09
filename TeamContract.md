@@ -22,20 +22,21 @@ This contract sets out shared expectations and commitments for how our team will
 
 * Team members agree to respond to iMessages within 1 day. Failure to respond may result in other team members calling them.
 
-* Teammates should notify each other about missed lectures and tutorials, as well as any updates to ability to work (e.g. sickness, hit by a truck, midterms) and corresponding changes to pending deadlines. 
+* Teammates should notify each other about missed lectures and tutorials, as well as any updates to ability to work (e.g. sickness, midterms) and corresponding changes to pending deadlines. 
 
-* Team members are expected to give each other basic respect and trust when working together in person, and for the most part adhere to work discussions during dedicated class/tutorial hours. 
+* Team members are expected to give each other basic respect and trust when working together in person, and adhere primarily to work discussions during dedicated class/tutorial hours. 
 
 * Each team member should be given an opportunity to contribute and participate in discussions in regards to CSC207 material. 
 
-* Texts or material not relating to class are exempt from these rules. I WILL make fun of circumstances outside of your control.
+* Texts or material not relating to class are exempt from these rules. 
 ---
 
 ### [Other Categories of norms and expectations go here]
 
 * Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
     - Flexibility in design vision and decision making
-    - Punctuality to classes and lectures, informing teammates if otherwise
+    - Punctuality to classes and lectures
+    - Good and timely communication
     - Decent Work Ethic
 
 ---
@@ -43,7 +44,7 @@ This contract sets out shared expectations and commitments for how our team will
 ## Decision Making
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-- Unanimous vote. Ride or Die. 
+- Unanimous vote, or otherwise persuasion. 
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)

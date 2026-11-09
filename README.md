@@ -12,6 +12,10 @@ By keeping this README up-to-date,
 your team will find it easier to prepare for the final presentation
 at the end of the term.
 
+This application is intended to be a plugin extension/proxy for Quercus that reads information from the website
+and outputs it in a centralized and neatly organized fashion. Intended for use by students who want an easier time
+keeping track of deadlines, grades, and general info across several courses or semesters. 
+
 # Use cases
 
 ## User case 1
