@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Secrets and local app data (never commit) ###
+.env
+*.token
+/data/
+.quercus-tracker/
